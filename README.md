@@ -16,3 +16,6 @@ Proyek ini bertujuan untuk menganalisis dataset publik e-commerce dan membuat da
    
 Instal dependensi yang diperlukan:
 pip install -r requirements.txt
+
+## link Application
+https://triramdhany-ecommerce-data-analysis.streamlit.app/
