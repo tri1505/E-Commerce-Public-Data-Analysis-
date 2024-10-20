@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 import data
 
-st.title("Dashboard E-Commerce")
+st.title("Dashboard E-Commerce created by : Tri Ramdhany")
 with st.sidebar: 
     st.image('logo.png')
 
