@@ -14,10 +14,10 @@ Proyek ini bertujuan untuk menganalisis dataset publik e-commerce dan membuat da
    ```bash
    git clone https://github.com/tri1505/E-Commerce-Public-Data-Analysis-
    
-Instal dependensi yang diperlukan:
+'Instal dependensi yang diperlukan:'
 pip install -r requirements.txt
 
-Open Dasboard stream on local computer
+'Open Dasboard stream on local computer:'
 python -m streamlit run dasboard.py
 
 ## link Application
