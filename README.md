@@ -17,5 +17,8 @@ Proyek ini bertujuan untuk menganalisis dataset publik e-commerce dan membuat da
 Instal dependensi yang diperlukan:
 pip install -r requirements.txt
 
+Open Dasboard stream on local computer
+python -m streamlit run dasboard.py
+
 ## link Application
 https://triramdhany-ecommerce-data-analysis.streamlit.app/
