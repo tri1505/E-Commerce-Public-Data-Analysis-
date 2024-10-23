@@ -21,4 +21,4 @@ pip install -r requirements.txt
 python -m streamlit run dasboard.py
 
 ## link Application
-https://triramdhany-ecommerce-data-analysis.streamlit.app/
+https://tri-ramdhany-ecommerce-data-analysis2.streamlit.app/
